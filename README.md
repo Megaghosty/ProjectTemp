@@ -25,17 +25,18 @@ Lien pour télécharger la librairie  [WiringPI](https://github.com/WiringPi/Wir
  1. Clonez ce dépôt sur votre machine locale :
   ```bash
    git clone https://github.com/Megaghosty/ProjectTemp.git
-
+```
  2. Créer un fichier BUild pour le fichier CMake
 
  3. Executer le CMake avec :
-```sh
+```c
   cmake..
-
+```
 4. Compiler :
-```sh
+```c
    make
-
+```
 5. Lancer le Programme
-```sh
+```c
    ./temperature_programme
+```
