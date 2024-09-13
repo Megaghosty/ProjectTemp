@@ -12,7 +12,7 @@ Voici une petite liste qui résume l’ensemble des logiciels utilisés pendant 
 - **VNC viewer by RealVNC** : Utilisation de VNC viewer pour manipuler la raspberry pi à distance via l’interface graphique
 - **Draw.io** : Utilisation de draw.io pour créer le diagramme de séquence de l’activité.
 - **G++** : Programme qui nous a permis de compiler le programme
-- **Cmake** permmettant l'automatisation de la compilation de nos fichiers 
+- **Cmake** : permmettant l'automatisation de la compilation de nos fichiers 
 - **Doxygen** Cela nous a permis de faire les commentaires sur les commentairers sur nos programmes
 
 ## Diagramme de Séquence 
@@ -25,3 +25,13 @@ Lien pour télécharger la librairie  [WiringPI](https://github.com/WiringPi/Wir
  1. Clonez ce dépôt sur votre machine locale :
   ```bash
    git clone https://github.com/Megaghosty/ProjectTemp.git
+ 2. Créer un fichier BUild pour le fichier CMake
+ 3. Executer le CMake avec :
+```bash
+  Cmake.
+4. Compiler :
+```bash
+   make
+5. Lancer le Programme
+```bash
+   ./temperature_programme
