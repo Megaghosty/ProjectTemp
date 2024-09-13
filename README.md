@@ -9,11 +9,11 @@ Voici une liste détaillée du matériel utilisé pendant toute la durée du min
 ## Logiciels Utilisés
 Voici une petite liste qui résume l’ensemble des logiciels utilisés pendant le projet ainsi que la description de leur utilisation sur toute la durée du projet
 
-**VNC viewer by RealVNC** : Utilisation de VNC viewer pour manipuler la raspberry pi à distance via l’interface graphique
-**Draw.io** : Utilisation de draw.io pour créer le diagramme de séquence de l’activité.
-**G++** : Programme qui nous a permis de compiler le programme
-**Cmake** permmettant l'automatisation de la compilation de nos fichiers 
-**Doxygen** Cela nous a permis de faire les commentaires sur les commentairers sur nos programmes
+- **VNC viewer by RealVNC** : Utilisation de VNC viewer pour manipuler la raspberry pi à distance via l’interface graphique
+- **Draw.io** : Utilisation de draw.io pour créer le diagramme de séquence de l’activité.
+- **G++** : Programme qui nous a permis de compiler le programme
+- **Cmake** permmettant l'automatisation de la compilation de nos fichiers 
+- **Doxygen** Cela nous a permis de faire les commentaires sur les commentairers sur nos programmes
 
 ## Diagramme de Séquence 
 ![Diag_seq_Ewen_Julien V1 drawio](https://github.com/user-attachments/assets/55fcde9a-f580-4177-82fb-8a610e044661)
